@@ -80,10 +80,11 @@ Incoming Email
 	  │
 	  ▼
 [Security Dashboard + Explainable Alerts]
+```
 Retraining Loop:
 - Honeypots + live telemetry feed fresh attack samples.
 - AI models continuously update for new threats.
-```
+
 
 ## ✅ Summary
 AI is both the attack surface and the defensive shield in modern MIME-based email security.
